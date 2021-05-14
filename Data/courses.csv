@@ -1,0 +1,1082 @@
+ID,CourseName
+0001,Álgebra Moderna I
+0002,Álgebra Moderna II
+0003,Álgebra Moderna III
+0004,Álgebra Moderna IV
+0005,Álgebra Lineal I
+0006,Álgebra Lineal II
+0007,Álgebra Superior I
+0008,Álgebra Superior II
+0009,Análisis Matemático I
+0010,Análisis Matemático II
+0011,Análisis Matemático III
+0012,Análisis Matemático IV
+0014,Álgebra Geométrica
+0016,Anatomía Animal Comparada
+0017,Aplicaciones a las Matemáticas Financieras I
+0018,Aplicaciones a las Matemáticas Financieras II
+0025,Series de Tiempo
+0026,Análisis de Fourier I
+0027,Análisis de Fourier II
+0029,Alemán
+0035,Aplicación del Procesamiento Digital de Imágenes de la Biología
+0036,Análisis Numérico I
+0037,Análisis Numérico II
+0038,Anatomía Vegetal
+0040,Biofísica
+0043,Botánica III
+0044,Botánica IV
+0045,Biología de Campo I
+0046,Biología de Campo II
+0049,Biología Celular
+0050,Biología General I
+0051,Biología General II
+0052,Biología Molecular
+0053,Requerimiento Traducción de Idioma
+0056,Bacteriología General
+0057,Biogeografia
+0058,Biología y Técnicas de Animales de Laboratorio
+0059,Seminario de Ciencias Computacionales
+0060,Seminario de Computación Teórica
+0061,Seminario de Inteligencia Artificial
+0062,Seminario de Programación
+0063,Seminario de Aplicaciones a las Ciencias Sociales y Administrativas
+0065,Conducta Animal
+0066,Fotografía y Microfotografía
+0067,Hidrobiología
+0068,Malacología
+0069,Origen de la Vida
+0070,Microscopia Electrónica
+0076,Arquitectura de Máquinas
+0077,Análisis de Redes
+0078,Análisis de Regresión
+0079,Biología y Técnicas de Animales de Laboratorio
+0080,Cálculo Actuarial I
+0081,Cálculo Actuarial II
+0082,Cálculo Actuarial III
+0083,Cálculo de las Variaciones
+0085,Cálculo Tensorial
+0086,Circuitos Digitales con Laboratorio
+0087,Climatología
+0088,Conjuntos Convexos
+0090,Contabilidad de Seguros
+0091,Cálculo Diferencial e Integral I
+0092,Cálculo Diferencial e Integral II
+0093,Cálculo Diferencial e Integral III
+0094,Cálculo Diferencial e Integral IV
+0097,Cartografía
+0099,Cactología
+0100,Álgebra
+0101,Análisis Socioambiental y Gestión de Recursos Naturales
+0102,Computación
+0103,Crustáceos
+0104,Física Contemporánea
+0105,Dinámica de Comunidades
+0109,Introducción a la Parsitología Molecular
+0110,Ecología de Comunidades Litorales
+0111,Conducta Animal
+0114,Cálculo Actuarial de Modelos Dinámicos
+0115,Ecología de la Conducta
+0118,Computación I
+0119,Computación II
+0120,Demografía I
+0124,Didáctica de las Matemáticas
+0125,Demografía II
+0128,Ecología de Parásitos
+0129,Ingeniería de Tejidos
+0132,Modelación Matemática en Recursos Naturales
+0133,Recursos Pesqueros Litorales de México
+0134,Reproducción de Peces y Crustáceos Marinos
+0135,Inmunoparasitología
+0136,Introducción a la Acarología
+0137,Introducción a la Etnomicología
+0138,La Biología del Desarrollo en la Era Genómica
+0139,Mecanismos Bioquímicos y Moleculares del Daño Celular
+0140,Recursos Forestales de México y su Manejo Sustentable
+0141,Toxicología Molecular
+0143,Bases de Datos
+0144,Introducción a la Biofísica y Física Médica
+0145,Biofísica General
+0146,Física y Medicina
+0151,Métodos Físicos para el Estudio de Sistemas Biológicos
+0152,Métodos Físicos Para El Diagnóstico Y Tratamiento En Medicina
+0153,Temas Selectos de Biofísica y Física Médica I
+0154,Temas Selectos de Biofísica y Física Médica II
+0155,Introducción al Estado Sólido
+0156,Estado Sólido I
+0157,Estado Sólido II
+0158,Temas Selectos de Estado Sólido I
+0159,Temas Selectos de Estado Sólido II
+0162,Ecuaciones Diferenciales I
+0163,Ecuaciones Diferenciales II
+0164,Ecuaciones Diferenciales III
+0165,Ecuaciones Diferenciales Parciales I
+0168,Electrónica I
+0169,Embriología Animal
+0170,Estadística Descriptiva
+0177,Electrónica II
+0178,Temas Selectos de Estado Sólido III
+0180,Edafología
+0182,Arboricultura Urbana
+0183,Ecuaciones Diferenciales Parciales II
+0187,Biofísica
+0188,Cronobiología
+0189,Ecología de la Polinización
+0190,El Cultivo de Tejidos Vegetales como Herramienta Biotecnologíca
+0191,Etnozoología
+0192,Eventos Principales en la Evolución de la vida Fanerozoica
+0193,Etnofarmacología
+0194,Hidroacústica Aplicada al Estudio del Ecosistema Pelágico
+0195,Histología Animal
+0196,Ictiología
+0197,Introducción a la Ecología Marina
+0198,Introducción a la Oceanografía
+0199,Introducción al Estudio de los Recursos Pesqueros del Pacífico Mexicano
+0200,Fisiología Animal
+0201,Física Clásica I -Mecánica-
+0202,Física Clásica II -Ondas Fluidos y Calor-
+0203,Física Clásica III -Óptica-
+0204,Física Clásica IV -Electricidad-
+0205,Física General
+0206,Física Moderna I
+0207,Física Moderna II
+0208,Física Moderna III
+0209,Física Teórica I -Mecánica-
+0210,Física Teórica II -Termodinámica-
+0211,Física Teórica III -Electromagnetismo-
+0212,Física Teórica IV
+0213,Físico Química
+0216,Fisiología Vegetal
+0217,Funciones Especiales y Transformadas Integrales
+0221,Fotografía y Microfotografia
+0223,Francés
+0224,Introducción a Ciencias de la Computación I
+0225,Paleobiología de Dinosaurios
+0226,Parasitología General
+0227,Laboratorio de Mecánica
+0228,Mecánica Vectorial
+0229,Protozoología
+0230,Restauración Ecológica
+0231,Técnicas de Radioisotopos
+0232,Anfibios y Reptiles
+0233,Entomología
+0234,Introducción a la Citogenética Humana
+0235,Manejo de Vertebrados Terrestres
+0236,Mastozoología
+0238,Ficología
+0240,Genética
+0242,Geometría Algebraica I
+0243,Geometría Algebraica II
+0244,Geometría Analítica I
+0245,Geometría Analítica II
+0246,Geometría Diferencial I
+0247,Geometría Diferencial II
+0248,Geometría Diferencial III
+0249,Geometría Moderna I
+0250,Geometría Moderna II
+0251,Geometría Proyectiva
+0252,Geometría Riemanniana I
+0253,Geometría Riemanniana II
+0257,Reproducción Sexual y Asexual de Plantas
+0258,Física de Plasmas I
+0259,Geometría Computacional
+0260,Introducción a la Tecnología del Vacío y Aplicaciones
+0261,Técnicas de Crecimiento de Películas Delgadas y Recubrimientos en Vacío
+0262,Temas Selectos de Tecnologías de Vacío I
+0263,Temas Selectos de Tecnologías de Vacío II
+0264,Seminario de Temas Selectos de Computación Distribuida
+0265,Asignatura Optativa Cursada Fuera de Plan 1
+0266,Asignatura Optativa Cursada Fuera de Plan 2
+0267,Asignatura Optativa Cursada Fuera de Plan 3
+0268,Asignatura Optativa Cursada Fuera de Plan 4
+0269,Complejidad Computacional
+0270,Seminario de Computación Teórica II
+0271,Conjuntos y Lógica
+0272,Introducción a la Geometría Avanzada
+0273,Sistemas Dinámicos Discretos I
+0274,Sistemas Dinámicos Discretos II
+0275,Biología Matemática I
+0276,Biología Matemática II
+0277,Teoría de las Gráficas II
+0280,Histología Animal
+0282,Historia de la Física I
+0285,Seminario de Temas Selectos de Computación II
+0286,Historia de las Matemáticas I
+0287,Historia de las Matemáticas II
+0288,Principios de Computación Distribuida
+0291,México: Nación Multicultural
+0292,Introducción a la Física Atómica y Molecular
+0293,Temas Selectos de Física Atómica y Molecular I
+0294,Temas Selectos de Física Atómica y Molecular II
+0295,Introducción a los Sistemas Químicos y Biológicos
+0297,Historia de la Física II
+0300,Materia Condensada Suave
+0302,Fenómenos Colectivos
+0303,Laboratorio de Fenómenos Colectivos
+0304,Adquisición y Procesamiento de Señales
+0305,Circuitos Digitales con Laboratorio
+0306,Instrumentación Científica
+0307,Máquinas Digitales con Laboratorio
+0308,Robótica y Control
+0309,Señales y Circuitos Eléctricos
+0310,Temas Selectos de Electrónica e Instrumentación I
+0311,Temas Selectos de Electrónica e Instrumentación II
+0313,Aplicaciones de Taller
+0314,Fotografía Digital
+0315,Introducción a la Fotografía
+0316,Taller
+0317,Temas Selectos de Fotografía
+0318,Análisis y Manejo de Cuencas
+0319,Circulación Oceánica y Clima
+0322,Temas Selectos del Núcleo Celular I
+0323,Introducción a la Contabilidad
+0326,Temas Selectos del Núcleo Celular II
+0327,Introducción a la Geofísica
+0328,Introducción al Seguro de Daños
+0329,Introducción al Seguro de Vida
+0333,Instrumentos y Programas de Cálculo I
+0335,Temas Selectos del Núcleo Celular III
+0337,Introducción a la Oceanografía
+0339,Introducción a Ciencias de la Computación II
+0340,Probabilidad y Estadística
+0343,Práctica Profesional Supervisada
+0345,Ictiología
+0348,Introducción a la Física Atmósfera
+0351,Introducción a las Funciones Recursivas y Computabilidad
+0354,Inglés
+0355,Introducción al Estado Solido
+0356,Introducción Matemática a la Mecánica Celeste
+0358,Inmunología
+0362,Introducción a la Investigación de Operaciones
+0363,Italiano
+0367,Introducción Física de Materiales
+0369,Contabilidad de Seguros
+0370,Acuacultura
+0371,Antropología Ecológica
+0372,Áreas Naturales Protegidas
+0373,Bioeconomía
+0374,Bioquímica de la Nutrición
+0375,Biotecnología Acuícola
+0376,Cambio Climático Global
+0377,Comercio de la Biodiversidad
+0378,Ecoturismo
+0379,Ecotoxicología
+0380,Energías Renovables
+0381,Especies Marinas Ornamentales
+0383,Ingeniería Ambiental y Costera
+0384,Maricultura
+0385,Manejo Sostenible de los Sistemas de Producción Acuática
+0386,Medio Ambiente y Materiales en la Zona Costera
+0387,Métodos de Estudio de la Fauna Silvestre y su Conservación
+0388,Métodos Numéricos
+0389,Modelación de la Zona Costera
+0390,Nutrición Acuícola
+0391,Ordenamiento Territorial de la Zona Costera
+0392,Percepción Remota
+0393,Planeación y Desarrollo de Proyectos
+0394,Procesos Biogeoquímicos: El Ambiente Costero
+0396,Sistemas de Información Geográfica
+0398,Estadística I
+0399,Estadística II
+0401,Manejo de Anfibios y Reptiles en Cautiverio
+0402,Ecología General I
+0403,Ecología General II
+0406,Estructura de Datos
+0407,Economía Matemática I
+0408,Economía Matemática II
+0409,Econometría
+0411,Estadística Bayesiana
+0414,Análisis de Algoritmos I
+0415,Análisis Lógico
+0416,Matemáticas Discretas
+0417,Ecología Marina
+0419,Electromagnetismo I
+0420,Laboratorio de Electromagnetismo
+0421,Filosofía y Ética de la Ciencia
+0422,Graficas y Juegos
+0423,Astrofísica Relativista
+0424,Seminario de Aplicaciones de Cómputo II
+0425,Seminario de Inteligencia Artificial II
+0426,Seminario de Programación II
+0427,Seminario de Sistemas para Cómputo A
+0428,Seminario de Sistemas para Cómputo B
+0429,Temas Selectos de Ingeniería de Software A
+0430,Temas Selectos de Ingeniería de Software B
+0431,Hidrogeología
+0432,Hidrometeorología
+0435,Limnología
+0436,Oceanografía Costera
+0437,Paleo-Oceanografía
+0438,Planeación del Territorio
+0439,Temas Selectos de Ciencias Acuáticas I
+0440,Laboratorio I
+0441,Laboratorio II
+0442,Teoría de Redes
+0443,Temas Selectos de Ciencias Acuáticas II
+0444,Legislacion de Seguros
+0445,Lógica Matemática I
+0446,Lógica Matemática II
+0447,Lógica Matemática III
+0452,Bioquímica Ambiental
+0453,Lenguajes de Programación I
+0455,Seminario de Aplicaciones Actuariales
+0457,Ecofisiología Animal
+0458,Economía y Medio Ambiente
+0459,Educación Ambiental
+0460,Evaluación de Riesgo Ecológico
+0461,Genética de la Conservación
+0462,Gestión y Conservación de Espacios Naturales
+0463,Impacto Ambiental
+0464,Microbiología Ambiental
+0465,Recursos Naturales II
+0466,Restauración de Espacios Degradados
+0467,Restauración del Suelo
+0468,Técnicas Biológicas de Decontaminación
+0469,Temas Selectos de Ciencias Ambientales I
+0470,Temas Selectos de Ciencias Ambientales II
+0471,Aerosoles Atmosféricos
+0472,Cambio Climático 
+0473,Contaminación del Aire
+0474,Física de Nubes
+0475,Introducción al Análisis Meteorológico
+0476,Meteorología Sinóptica y de Mesoescala
+0477,Meteorología Tropical
+0479,Bioética
+0481,Máquinas Digitales con Laboratorio
+0482,Matemáticas Financieras I
+0483,Matemáticas Financieras II
+0491,Biofotónica
+0496,Biomateriales
+0502,Acústica
+0503,Introducción a la Física de Particulas Elementales
+0504,Temas Selectos de Altas Energias
+0505,Astronomía General
+0506,Astrofísica Estelar
+0507,Materia Interestelar
+0508,Astronomía Galactica
+0509,Astronomía Extragalactica
+0510,Sistema Solar
+0511,Temas Selectos de Astrofísica
+0512,Biofísica General
+0514,Biofísica Molecular
+0515,Física y Medicina
+0516,Temas Selectos de Biofísica
+0517,Física de Nubes
+0519,Percepción Remota
+0520,Temas Selectos de Física de la Atmósfera
+0522,Programación y Simulación de Problemas Físicos
+0524,Seminario de Cibernética con Laboratorio
+0525,Análisis de Proyectos Relevantes de Enseñanza de la Física
+0526,Procesos Cognoscitivos y Construcción del Conocimiento Científico
+0527,Seminario de Investigación Educativa
+0528,Temas Selectos de Electromagnetismo
+0529,Fundamentos Físicos de la Electrónica
+0530,Temas Selectos Instrumentación ELEC
+0531,Temas Selectos de la Energética
+0532,Estado Solido
+0533,Temas Selectos de Estado Solido
+0534,Filosofía de la Física I
+0535,Filosofía de la Física II
+0536,Física Atómica y Molecular
+0537,Introducción a la Física Nuclear
+0538,Temas Selectos de Física Nuclear
+0539,Introducción a la Física de Radiaciones
+0540,Dosimetría de la Radiación
+0541,Seguridad Radiológica
+0542,Temas Selectos Física de Radiaciones
+0543,Mecánica Cuántica Relativista
+0544,Simetrías en Física
+0545,Dinámica no Lineal
+0546,Oscilaciones no Lineales
+0547,Seminario de Física Teórica
+0548,Seminario de Física Matemática
+0549,Física del Interior de la Tierra
+0550,Introducción a la Sismología
+0551,Física Espacial
+0552,Elementos de Óptica Geométrica
+0553,Introducción Óptica Fourier
+0554,Laseres y Optoelectrónica
+0555,Temas Selectos de Óptica
+0556,Quimica General
+0557,Físico Química
+0559,Seminario de Físico Química
+0565,Organización y Programación Administrativa I
+0566,Organización y Programación Administrativa II
+0567,Taller
+0568,Aplicaciones de Taller
+0569,Fotografia Científica
+0570,Introducción a la Técnica del Vacío
+0571,Física Estadística
+0572,Mecánica de Fluidos
+0573,Temas Selectos de Termodinámica y Física Estadística
+0574,Diseño de Sistemas Digitales
+0575,Ingeniería de Software
+0576,Teoría de la Computación
+0579,Origen de la Vida
+0580,Sueco
+0581,Portugués
+0582,Introducción a la Física Cuántica
+0583,Laboratorio de Óptica
+0584,Óptica
+0585,Micrometeorología
+0586,Modelación Climática
+0587,Radiación Solar y Terrestre
+0588,Simulación y Pronósticos Climáticos
+0589,Temas Selectos de Ciencias Atmosféricas I
+0590,Temas Selectos de Ciencias Atmosféricas II
+0595,Física de Plasmas
+0597,Geoquímica Orgánica 
+0600,Paleontología
+0601,Pensiones
+0604,Parasitologia General
+0605,Arquitectura de Computadoras
+0606,Sistemas de Bases de Datos
+0607,Lenguajes de Programación y sus Paradigmas
+0608,Inteligencia Artificial
+0609,Electromagnetismo II
+0610,Matemáticas Avanzadas de la Física
+0611,Mecánica Analítica
+0612,Termodinámica
+0618,Temas Selectos de Ciencias Espaciales I
+0619,Temas Selectos de Ciencias Espaciales II
+0621,Programación Lineal
+0622,Física de Procesos Volcánicos
+0623,Geología de México
+0624,Geomecánica
+0625,Probabilidad I
+0626,Probabilidad II
+0628,Hidrogeoquímica
+0629,Programación de Sistemas
+0630,Procesos Estocásticos I
+0631,Procesos Estocásticos II
+0633,Programación Entera
+0634,Programación no Lineal
+0636,Sismología I
+0637,Sismología II
+0638,Suelos
+0639,Temas Selectos de Ciencias de la Tierra Sólida I
+0645,Temas Selectos de Ciencias de la Tierra Sólida II
+0646,Teoría del Flujo Subterráneo
+0647,Vulcanología
+0648,Evaluación del Riesgo Geológico
+0652,Dinámica de Biofluidos
+0654,Administración de Empresas de Software
+0655,Administración de Sistemas Unix/Linux
+0656,Algoritmos de Apareamiento de Cadenas
+0657,Algoritmos Paralelos
+0658,Almacenes y Minería de Datos
+0659,Animación por Computadora
+0662,Computación Cuántica I
+0663,Computación Cuántica II
+0664,Cómputo Evolutivo
+0665,Diseño de Interfaces de Usuario
+0666,Diseño y Programación de Videojuegos
+0667,Genómica Computacional
+0668,Ingeniería de Software II
+0669,Introducción a la Criptografía
+0671,Lógica Computacional II
+0672,Métodos Formales
+0673,Métricas de Software
+0674,Patrones de Diseño de Software
+0675,Programación de Dispositivos Móviles
+0676,Programación Declarativa
+0679,Razonamiento Automatizado
+0681,Relatividad
+0683,Recursos Naturales
+0686,Ruso
+0688,Seminario de Biología B
+0689,Seminario de Biología C
+0690,Seminario de Biología de P.74
+0691,Seminario de Biología E
+0705,Seminario de Álgebra B
+0706,Seminario de Análisis Matemático B
+0707,Seminario de Computación B
+0708,Seminario de Estadística B
+0709,Seminario de Geometría B
+0710,Seminario de Probalidad B
+0712,Seminario de Topología B
+0713,Sistemas Operativos
+0714,Redes de Computadoras
+0715,Física Computacional
+0716,Laboratorio de Electrónica
+0717,Mecánica Cuántica
+0718,Relatividad
+0719,Epigenética
+0720,Seguro de Personas
+0724,Simulación y Control
+0729,Fisiopatología de la Hiperexcitabilidad Neuronal
+0730,Genómica Viral
+0731,Electrofisiología
+0732,Filosofía de la Ciencia
+0734,Biosensores
+0735,Seminario Matemáticas Aplicadas I
+0736,Seminario Matemáticas Aplicadas II
+0737,Seminario de Cálculo de Formas Diferenciales
+0739,Física del Radiodiagnóstico
+0740,Física de la Medicina Nuclear
+0741,Física de la Radioterapia
+0742,Seminario de Álgebra A
+0743,Seminario de Análisis Matemático A
+0744,Seminario de Computación A
+0745,Seminario de Geometría A
+0746,Física de la Resonancia Magnética
+0747,Seminario de Sistemas A
+0748,Seminario de Estadística A
+0749,Seminario de Probabilidad A
+0750,Seminario Filosofía de las Matemáticas
+0751,Seminario sobre Enseñanza de las Matemáticas I
+0754,Seminario sobre Enseñanza de las Matemáticas II
+0755,Introducción a las Matemáticas Discretas
+0756,Taller de Herramientas Computacionales
+0757,Ciencia Básica
+0758,Taller de Modelación I
+0759,Teoría de Gráficas
+0760,Teoría de los Conjuntos I
+0764,Teoría de los Números I
+0765,Topología I
+0766,Topología II
+0767,Topología III
+0768,Técnicas de Radioisotopos
+0771,Realidad Virtual
+0772,Reconocimiento de Patrones
+0773,Reconocimiento de Patrones y Aprendizaje Automatizado
+0774,Recuperación y Búsqueda de Información en Textos
+0777,Teoría de los Números II
+0779,Teoría de los Conjuntos II
+0780,Chino
+0781,Redes Neuronales
+0782,Riesgo Tecnológico
+0783,Seminario de Ciencias de la Computación A
+0784,Seminario de Ciencias de la Computación B
+0785,Sistemas de Información Geográfica
+0786,Sistemas Dinámicos Computacionales I
+0790,Tecnologías para Desarrollos en Internet
+0791,Teoría de Códigos
+0794,Visión Por Computadora
+0795,Seminario de Biología I
+0796,Seminario de Biología II
+0797,Seminario de Biología III
+0798,Seminario de Biología IV
+0799,Temas Selectos de Biología I
+0800,Redes Neuronales y Autómatas Celulares
+0801,Análisis de Algoritmos II
+0803,Graficación por Computadoras
+0804,Herramientas de Computación para las Ciencias
+0805,Proceso Digital de Imagenes
+0806,Procesos Paralelos y Distribuidos
+0807,Simulación
+0808,Supercómputo
+0809,Visualización
+0810,Seminario de Temas Selectos de Computación
+0811,Lógicas no Clásicas
+0813,Programación Funcional y Lógica
+0814,Semántica y Verificación
+0815,Teoría de Códigos
+0816,Algoritmos Genéticos
+0817,Compiladores
+0819,Lingüística Computacional
+0820,Robótica
+0821,Sistemas Expertos
+0822,Diseño de interfaces
+0823,Diseño y Programación Orientada a Objetos
+0824,Grandes Bases de Datos
+0825,Seminario de Aplicaciones de Cómputo
+0826,Sistemas Manejadores de Bases de Datos
+0827,Dinámica de Medios Deformables
+0828,Física Atómica y Materia Condensada
+0829,Física Estadística
+0830,Laboratorio de Física Contemporánea I
+0831,Temas Selectos de Biología II
+0832,Temas Selectos de Biología III
+0834,Temas Selectos de Biología IV
+0835,Química Ambiental de Suelos
+0836,Química Analítica Instrumental
+0837,Química de la Atmósfera
+0838,Álgebra Matricial Numérica
+0840,Variable Compleja I
+0841,Variable Compleja II
+0842,Variable Compleja III
+0843,Virologia
+0845,Radiobiología
+0846,Reconstrucción de Imágenes Biomédicas
+0847,Las Relaciones Interpersonales en el Ambiente Hospitalario
+0848,Temas Selectos en Biofísica
+0849,Temas Selectos en Biomatemáticas
+0850,Temas Selectos en Cómputo de Alto Desempeño
+0851,Temas Selectos en Física Biológica
+0852,Temas Selectos en Instrumentación Biomédica
+0853,Temas Selectos en Física de la Terapia Médica
+0854,Temas Selectos en Física del Diagnóstico Médico
+0856,Teoría Celular
+0858,Demografía Avanzada
+0859,Introducción a la Administración
+0861,Modelos Lineales
+0863,Temas Selectos de Economía
+0864,Temas Selectos de Investigación de Operaciones
+0865,Productos Financieros Derivados
+0866,Seminario de Aplicaciones Actuariales I
+0867,Seminario de Aplicaciones Actuariales II
+0868,Seminario de Estadística I
+0869,Seminario de Estadística II
+0870,Seminario de Finanzas I
+0872,Seminario de Investigación de Operaciones
+0873,Simulación Estocástica
+0876,Historia y Filosofía del Pensamiento Científico
+0880,Análisis Funcional Aplicado
+0882,Seminario de Análisis Numérico
+0889,Matemáticas Finitas
+0891,Muestreo
+0892,Mineralogía Óptica de Minerales Translúcidos
+0897,Seminario de Estadística
+0898,Taller de Modelación II
+0899,Taller de Redacción
+0900,Física Nuclear y Subnuclear
+0901,Laboratorio de Física Contemporánea II
+0903,Robótica Móvil
+0909,Ciencia Desarrollo y Sociedad
+0913,Fotografía Científica I
+0914,Fotografía Científica II
+0916,Mecánica Celeste
+0917,Origen y Evolución de los Sistemas Planetarios
+0918,Aplicación de las Ciencias de la Tierra en la Vigilancia de Ensayos Nucleares
+0919,Análisis Matemático Aplicado
+0920,Sistemas Dinámicos no Lineales
+0921,Formación Científica I
+0922,Proyecto I
+0923,Formación Científica II
+0924,Proyecto II
+0926,Optimización Numérica
+0929,Teoría de las Decisiones
+0930,Solución Numérica de Ecuaciones Diferenciales Ordinarias
+0931,Solución Numérica de Ecuaciones Diferenciales Parciales
+0937,Topología Diferencial I
+0938,Técnicas de Laboratorio
+0939,Topología Diferencial II
+0941,Teoría de los Conjuntos III
+0946,Teoría de Juegos I
+0947,Teoría de la Medida I
+0948,Teoría de la Medida II
+0950,Teoría de Juegos II
+0951,Seminario de Ciencia y Sociedad I
+0952,Seminario de Óptica
+0954,Seminario de Ciencia y Sociedad II
+0955,Seminario de Apoyo a la Titulación en Actuaría A
+0956,Seminario de Apoyo a la Titulación en Actuaría B
+0957,Seminario de Apoyo a la Titulación en Ciencias de la Computación A
+0958,Seminario de Apoyo a la Titulación en Ciencias de la Computación B
+0959,Seminario de Apoyo a la Titulación en Matemáticas A
+0962,Zoología III
+0963,Zoología IV
+0964,Seminario de Apoyo a la Titulación en Matemáticas B
+0966,Temas Selectos de Aprovechamiento Costero-Marino
+0967,Temas Selectos de Biología y Ecología Costero-Marinas
+0968,Temas Selectos de Estrategias de Manejo Costero-Marino
+0970,Temas Selectos de Herramientas Cuantitativas
+0972,Temas Selectos de Sociedad y Cultura Costeras
+0975,Seminario de Análisis Combinatorio
+0977,Seminario de Topología A
+0979,Seminario de Astrofísica
+0982,Seminario de Filosofía de la Ciencia I
+0983,Seminario de Filosofía de la Ciencia II
+0984,Seminario Sobre Enseñanza Matemáticas III
+0985,Sociología
+0986,Seminario de Biología A
+0987,Seminario de Filosofía de la Ciencia III
+0988,Seminario sobre Enseñanza de las Matemáticas IV
+0990,Seminario de Filosofía de la Ciencia IV
+0991,Seminario de Investigación de Operaciones
+1000,Acuacultura
+1001,Administración de Recursos Naturales
+1002,Anatomía Animal
+1003,Anatomía Vegetal
+1004,Artrópodos
+1005,Biodiversidad
+1006,Biogeografia II
+1007,Biología Molecular
+1008,Biología Celular
+1009,Biología Célular (Núcleo Celular)
+1011,Temas Selectos de Bioquímica
+1012,Biotecnología II
+1013,Briofitas y Pteridofitas
+1014,Carcinogenésis
+1016,Climatologia
+1017,Contaminación Ambiental
+1018,Deuterostomados
+1019,Didáctica de la Biología
+1020,Ecofisiología Animal
+1021,Ecología de Poblaciones
+1022,Ecología II
+1023,Edafología
+1024,Embriología Animal
+1025,Embriología Vegetal
+1026,Etnobotánica
+1027,Evolución II
+1028,Ficologia
+1029,Fisiología Animal
+1030,Fisiología Microbiana
+1031,Fisiología Vegetal
+1032,Fotogrametría y Fotointerpretación
+1033,Genética de Poblaciones
+1034,Genética II
+1035,Geologia
+1036,Geomorfologia
+1037,Inmunología
+1038,Introducción a la Investigación Educativa
+1039,Metazoarios
+1040,Métodos de Enseñanza
+1041,Microbiología
+1042,Naturaleza y Sociedad
+1043,Neurobiología
+1044,Sistemática II
+1045,Virologia
+1046,Reaseguro Financiero
+1047,La Sustentabilidad del Desarrollo
+1048,Introducción a los Sistemas Complejos
+1049,Ciencia
+1050,Administración Financiera
+1051,Control Estadístico de la Calidad
+1053,Fianzas
+1054,Mercadotecnia de Seguros
+1055,Auditoría Actuarial
+1056,Teoría de Juegos en Economía
+1057,Administración de Riesgos Financieros
+1063,Econometría II
+1064,Temas Selectos de Economía I
+1066,Productos Financieros Derivados II
+1067,Valuación de Opciones
+1089,Temas Selectos de Análisis Numérico
+1090,El Zoológico como Centro de Conservación
+1091,Polémicas Contemporáneas de la Evolución
+1092,Ornitología
+1093,Adaptación de los Mamíferos a la Vida Acuática
+1094,Física de Plasmas II
+1095,Física de los Plasmas de Baja Temperatura
+1096,Fusión Nuclear Controlada
+1097,Temas Selectos de Física de Plasmas I
+1099,Astrofísica General
+1100,Biología de Procariontes
+1101,Filosofía e Historia de la Biología
+1102,Física
+1103,Matemáticas I
+1104,Química
+1108,Matemáticas Financieras
+1109,Problemas Socio-Económicos de México
+1110,Ecología y Evolución
+1111,Filosofía y Ética de la Ciencia
+1112,Geología Ambiental Costera
+1113,Introducción al Estudio de los Sistemas Costeros
+1114,Matemáticas I
+1115,Biología General
+1116,Geología General
+1117,Introducción a las Ciencias de la Tierra
+1118,Matemáticas para las Ciencias de la Tierra I
+1119,Química General
+1122,Contabilidad
+1123,Estructuras Discretas
+1124,Inglés I
+1125,Introducción a Ciencias de la Computación
+1126,Matemáticas para las Ciencias Aplicadas I
+1130,Álgebra
+1131,Cálculo Diferencial e Integral I
+1132,Inglés
+1133,Introducción a la Física del Cuerpo Humano
+1134,Metodología de la Física Experimental
+1135,Inglés I
+1200,Biología de Protistas y Algas
+1201,Biología Molecular de la Célula I
+1202,Matemáticas II
+1203,Química Orgánica
+1204,Sistemática I
+1208,Contabilidad
+1209,Programación I
+1210,Ecofisiología
+1211,Impacto Ambiental
+1212,Matemáticas II
+1213,Metodología de la Investigación
+1214,Química y Física del Agua
+1215,Biodiversidad
+1216,Matemáticas para las Ciencias de la Tierra II
+1218,Química Orgánica
+1219,Sedimentología y Estratigrafía
+1222,Estructuras de Datos
+1223,Inglés II
+1226,Matemáticas para las Ciencias Aplicadas II
+1230,Bioquímica
+1231,Cálculo Diferencial e Integral II
+1232,Geometría Analítica I
+1233,Inglés
+1234,Medición y Análisis en la Física Experimental
+1235,Inglés II
+1236,Programación
+1237,Inglés I
+1300,Bioestadística
+1301,Biología de Plantas I
+1302,Biología Molecular de la Célula II
+1303,Biología Molecular de la Célula III
+1304,Ciencias de la Tierra
+1308,Teoría del Seguro
+1309,Programación II
+1310,Ecología de Poblaciones y Comunidades
+1311,Métodos de Campo y Laboratorio
+1312,Oceanografía y Procesos Costeros
+1313,Probabilidad y Estadística
+1314,Producción y Aprovechamiento de la Zona Costera I
+1315,Ecología
+1317,Introducción a la Geodinámica
+1318,Matemáticas para las Ciencias de la Tierra III
+1319,Técnicas Experimentales
+1322,Inglés III
+1323,Modelado y Programación
+1326,Matemáticas para las Ciencias Aplicadas III
+1330,Álgebra Lineal
+1331,Cálculo Avanzado
+1332,Inglés
+1333,Instrumentación y Calibración
+1334,Morfofuncional I
+1335,Manejo de Datos
+1336,Inglés III
+1337,Inglés II
+1400,Biogeografía I
+1401,Biología de Animales I
+1402,Biología de Hongos
+1403,Biología de Plantas II
+1404,Genética I
+1405,Paleobiología
+1408,Matemáticas Actuariales del Seguro de Personas I
+1409,Finanzas I
+1410,Ecología Energética
+1411,Estancia de Investigación I
+1412,Geografía Física y Humana
+1413,Producción y Aprovechamiento de la Zona Costera II
+1414,Planeación y Análisis de Experimentos
+1415,Geoquímica
+1416,Interacciones e Historia de los Sistemas Terrestres
+1417,Matemáticas para las Ciencias de la Tierra IV
+1418,Sistemas Acuáticos
+1419,Sistemas Atmosféricos
+1425,Autómatas y Lenguajes Formales
+1426,Inglés IV
+1427,Lógica Computacional
+1428,Organización y Arquitectura de Computadoras
+1429,Matemáticas para las Ciencias Aplicadas IV
+1430,Algoritmos Computacionales
+1431,Ecuaciones Diferenciales I
+1432,Elaboración y Desarrollo de Proyectos Experimentales
+1434,Inglés
+1435,Morfofuncional II
+1436,Inglés IV
+1437,Inglés III
+1500,Biología de Animales II
+1501,Biotecnología I
+1502,Ecología I
+1503,Taller Nivel 1
+1506,Investigación de Operaciones
+1508,Matemáticas Actuariales del Seguro de Personas II
+1509,Finanzas II
+1510,Alteración de los Sistemas Costeros
+1511,Análisis Multivariado
+1512,Estancia de Investigación II
+1513,Genética y Biodiversidad
+1514,Legislación y Administración de la Zona Costera
+1515,Estadística Aplicada
+1516,Fenómenos Electromagnéticos
+1517,Ciencia del Suelo
+1519,Ecología Avanzada
+1520,Economía y Desarrollo Sustentable
+1521,Física del Interior de la Tierra
+1522,Geología y Atmósferas Planetarias
+1523,Introducción a la Oceanografía Física
+1524,Matemáticas Avanzadas de las Ciencias de la Tierra
+1526,Química Planetaria
+1527,Taller de Instrumentación
+1528,Anatomía Radiológica
+1529,Física Computacional
+1530,Inglés
+1531,Matemáticas Avanzadas
+1532,Análisis de Algoritmos
+1533,Computación Distribuida
+1534,Fundamentos de Bases de Datos
+1535,Inglés V
+1536,Lenguajes de Programación
+1539,Mercados Financieros y Valuación de Instrumentos
+1540,Economía
+1541,Inferencia Estadística
+1600,Biología de Animales III
+1601,Evolución I
+1602,Recursos Naturales
+1603,Taller Nivel 2
+1605,Legislación en Seguro Privado y Social
+1606,Introducción a la Investigación Social
+1608,Matemáticas Actuariales del Seguro de Daños
+1609,Economía I
+1610,Conservación de la Biodiversidad
+1611,Economía Ambiental
+1612,Estancia de Investigación III
+1613,Procesos Estocásticos
+1614,Manejo Sustentable de la Zona Costera
+1615,Restauración de los Sistemas Costeros
+1616,Computación y Análisis de Datos Geofísicos
+1617,Espectroscopía (Física Atómica y Molecular)
+1618,Física del Clima
+1619,Física Espacial y Planetaria
+1620,Geología Estructural
+1621,Impacto de los Fenómenos Terrestres
+1623,Mineralogía
+1624,Oceanografía Biológica
+1625,Percepción Remota y Sistemas de Información Geográfica
+1626,Química Acuática
+1627,Recursos Naturales
+1628,Toxicología Ambiental
+1630,Bioestadística
+1632,Física del Cuerpo Humano
+1633,Inglés
+1634,Interacción de la Radiación con la Materia
+1635,Termofísica
+1636,Demografía
+1637,Matemáticas Actuariales para Seguro de Daños
+1638,Métodos Cuantitativos en Finanzas
+1639,Modelos no Paramétricos y de Regresión
+1640,Inglés V
+1641,Inglés IV
+1700,Taller Nivel 3
+1702,Seminario de Titulación I
+1705,Productos Financieros Derivados I
+1706,Econometría I
+1707,Análisis Numérico
+1708,Seguridad Social
+1709,Demografía I
+1710,Economía II
+1712,Estadística III
+1714,Reaseguro
+1716,Astrobiología
+1718,Dinámica de Fluidos Geofísicos
+1719,Ecología Urbana
+1720,Evolución
+1721,Hidrología
+1722,Métodos Geofísicos de Exploración
+1723,Petrología de Rocas Cristalinas
+1724,Taller de Modelación Numérica
+1725,Taller de Investigación en Ciencias Acuáticas I
+1726,Taller de Investigación en Ciencias Ambientales I
+1727,Taller de Investigación en Ciencias Atmosféricas I
+1728,Taller de Investigación en Ciencias Espaciales I
+1729,Taller de Investigación en Ciencias de la Tierra Sólida I
+1730,Técnicas de Análisis Ambiental
+1731,Instrumentación Biomédica
+1732,Introducción a la Oncología
+1733,Práctica Profesional Supervisada
+1734,Dosimetría
+1735,Física Biológica
+1736,Sistemas Dinámicos de la Fisiología
+1737,Sistemas Híbridos en Biomedicina
+1738,Análisis del México Contemporáneo
+1739,Modelos de Supervivencia y de Series de Tiempo
+1740,Inglés VI
+1741,Inglés V
+1800,Taller Nivel 4
+1801,Administración Actuarial
+1802,Seminario de Titulación II
+1805,Carteras de Inversión
+1806,Demografía II
+1807,Teoría del Riesgo
+1808,Pensiones Privadas
+1809,Administración
+1810,Finanzas Corporativas
+1813,Planeación Estratégica
+1814,Diseño de Experimentos
+1815,Análisis Multivariado
+1816,Seminario de Matemáticas Actuariales Aplicadas
+1817,Administración de Riesgos
+1818,Cartografía
+1819,Políticas y Normatividad en el Manejo de los Sistemas Terráqueos
+1820,Taller de Investigación en Ciencias Acuáticas II
+1821,Taller de Investigación en Ciencias Ambientales II
+1822,Taller de Investigación en Ciencias Atmosféricas II
+1823,Taller de Investigación en Ciencias Espaciales II
+1824,Taller de Investigación en Ciencias de la Tierra Sólida II
+1827,Computación Concurrente
+1828,Criptografía y Seguridad
+1829,Inglés VI
+1830,Imagenología Biomédica
+1831,Seguridad Radiológica
+1832,Administración Actuarial del Riesgo
+1841,Inglés VI
+2000,Estructura
+2001,Materia Interestelar
+2002,Astrofísica Extragaláctica y Cosmología
+2003,Astrofísica Estelar
+2004,Temas Selectos de Astrofísica I
+2005,Temas Selectos de Astrofísica II
+2006,Temas Selectos de Astrofísica III
+2007,Introducción a las Ciencias de la Tierra
+2011,Dinámica de Fluidos Geofísicos
+2012,Física del Interior de la Tierra
+2013,Sismología y Vulcanología
+2014,Introducción a la Física Espacial
+2015,Introducción a la Oceanografía Física
+2017,Meteorología
+2018,Dinámica del Clima
+2020,Temas Selectos de Ciencias de la Tierra I
+2021,Temas Selectos de Ciencias de la Tierra II
+2022,Temas Selectos de Ciencias de la Tierra III
+2024,Cosmología Física
+2025,Astrofísica Relativista
+2026,Temas Selectos de Relatividad
+2028,Temas Selectos de Relatividad
+2029,Introducción a la Acústica Contemporánea
+2030,Acústica en Fluidos
+2032,Temas Selectos de Acústica I
+2033,Temas Selectos de Acústica II
+2034,Temas Selectos de Acústica III
+2035,Simetrías en Mecánica Cuántica
+2036,Topología y Geometría Diferencial para Físicos
+2037,Temas Selectos de Física Matemática y Teórica I
+2038,Temas Selectos de Física Matemática y Teórica II
+2039,Temas Selectos de Física Matemática y Teórica III
+2040,Filosofía de la Física I
+2041,Filosofía de la Física II
+2042,Historia de la Física I
+2043,Historia de la Física II
+2044,Temas Selectos de Filosofía de la Física
+2045,Temas Selectos de la Historia de la Física
+2046,Fenómenos Cooperativos I
+2047,Fenómenos Cooperativos II
+2048,Temas Selectos de Termodinámica y Física Estadística I
+2049,Temas Selectos de Termodinámica y Física Estadística II
+2050,Temas Selectos de Termodinámica y Física Estadística III
+2051,Introducción a la Física de Radiaciones
+2052,Dosimetría de la Radiación
+2053,Seguridad Radiológica
+2054,Técnicas de Radioisótopos
+2055,Temas Selectos de Física de Radiacciones I
+2056,Temas Selectos de Física de Radiaciones II
+2057,Temas Selectos de Física de Radiaciones III
+2058,Introducción a la Física Nuclear
+2060,Temas Selectos de Física de Nuclear I
+2061,Temas Selectos de Física Nuclear II
+2063,Introducción a la Física de Partículas Elementales I
+2064,Introducción a la Física de Partículas Elementales II
+2065,Temas Selectos de Física de Partículas Elementales I
+2066,Temas Selectos de Física de Partículas Elementales II
+2067,Temas Selectos de Física de Partículas Elementales III
+2068,Elementos de Mecánica de Fluidos
+2069,Mecánica de Fluidos Avanzada
+2070,Temas Selectos de Mecánica de Fluidos I
+2071,Temas Selectos de Mecánica de Fluidos II
+2073,Métodos Numéricos y Algoritmos Computacionales
+2074,Temas Selectos de Física Computacional I
+2075,Temas Selectos de Física Computacional II
+2076,Temas Selectos de Física Computacional III
+2077,Introducción a la Óptica Cuántica
+2078,Láseres
+2080,Óptica de Fourier
+2081,Temas Selectos de Óptica I
+2082,Temas Selectos de Óptica II
+2083,Temas Selectos de Óptica III
+2084,Introducción a la Física de los Materiales
+2086,Física de la Materia Condensada Blanda
+2087,Estructura Electrónica de los Materiales
+2088,Temas Selectos de Física de Materiales I
+2089,Temas Selectos de Física de Materiales II
+2090,Temas Selectos de Física de Materiales III
+2091,Epigenética
